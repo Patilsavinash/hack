@@ -18,6 +18,5 @@
     "mocha": "^9.1.0",
     "mocha-junit-reporter": "2.0.0",
     "mocha-multi-reporters": "1.5.1"
-    
   }
 }
